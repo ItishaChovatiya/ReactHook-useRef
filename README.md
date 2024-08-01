@@ -1,6 +1,3 @@
-Here's the updated README with your contact details:
-
----
 
 # React Hook: useRef
 
